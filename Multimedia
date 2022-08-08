@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Multimedia </title>
+
+    </head>
+    <body>
+        <h1> Aprendiendo a utilizar imagenes </h1>
+        <div>
+            <img src="cami.jpg" alt="Foto cami" width="200" height="250">
+        </div>
+        <h1> Aprendiendo a utilizar videos </h1>
+        <div>
+            <video src="cami.mp4" controls autoplay loop muted width="500" height="300">  </video>
+
+        </div>
+        <h1>Aprendiendo a utilizar audios</h1>
+        <div>
+            <audio src="musica.mp3" controls autoplay loop></audio>
+
+        </div> 
+    </body>
+</html>
